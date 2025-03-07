@@ -1,4 +1,4 @@
-# Monster Hunter Inspired OOP Project
+# Monster Hunter World Inspired OOP Project
 
 ## Overview
 This project is a console-based application inspired by *Monster Hunter World*, built using Object-Oriented Programming (OOP) principles in C++. The application simulates the management of a hunter's inventory, including weapons, armor, and hunted monsters.
